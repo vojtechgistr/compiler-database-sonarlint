@@ -1,0 +1,12 @@
+[
+    {
+        "directory":  "C:\\Users\\vojti\\Desktop\\projects\\dev\\c++\\dungeonBuilder\\src",
+        "command":  "g++ dungeonBuilder.cpp -o dungeonBuilder",
+        "file":  "dungeonBuilder.cpp"
+    },
+    {
+        "directory":  "C:\\Users\\vojti\\Desktop\\projects\\dev\\c++\\dungeonBuilder\\src",
+        "command":  "g++ main.cpp -o main",
+        "file":  "main.cpp"
+    }
+]
