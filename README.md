@@ -1,4 +1,4 @@
-# Generate Compile Commands For SonarLint
+# Generate Compile Commands For SonarLint (C, C++)
 If you use MingW for C++ compilation, you can use this script to generate the compile_commands.json file.
 
 
